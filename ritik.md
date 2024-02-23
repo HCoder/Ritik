@@ -2,7 +2,7 @@
   <summary>Select an option</summary>
   <table>
     <tr>
-      <td><input type="checkbox" id="option1"  ☑ ></td>
+      <td><input type="radio" id="option1"  ></td>
       <td><label for="option1"> Option 1</label></td>
     </tr>
     <tr>
