@@ -2,8 +2,8 @@
   <summary>Select an option</summary>
   <table>
     <tr>
-      <td><input type="checkbox" id="option1" checked disabled></td>
-      <td><label for="option1"> ☑ Option 1</label></td>
+      <td><input type="checkbox" id="option1"  ☑ checked disabled></td>
+      <td><label for="option1"> Option 1</label></td>
     </tr>
     <tr>
       <td><input type="checkbox" id="option2" enabled></td>
