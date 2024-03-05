@@ -39,3 +39,24 @@
         </tr>
     </tbody>
 </table>
+
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Merged Cell</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td>
+  </tr>
+  <tr>
+    <td>Cell 5</td>
+    <td>Cell 6</td>
+  </tr>
+  <tr>
+    <td>Cell 7</td>
+    <td colspan="2">Merged Cells</td>
+  </tr>
+</table>
