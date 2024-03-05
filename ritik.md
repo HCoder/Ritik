@@ -60,3 +60,24 @@
     <td colspan="2">Merged Cells</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Merged Cell</td>
+    <td><a href="https://www.google.com">Cell 2</a></td>
+    <td><a href="https://www.google.com">Cell 3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.google.com">Cell 5</a></td>
+    <td>Cell 6</td>
+  </tr>
+  <tr>
+    <td>Cell 7</td>
+    <td colspan="2">Merged Cells</td>
+  </tr>
+</table>
